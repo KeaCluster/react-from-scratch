@@ -343,6 +343,7 @@ const Didact = {
 // Force babel to transpile JSX with our Didact **
 
 /** @jsx Didact.createElement */
+
 function Counter() {
     const [state, setState] = Didact.useState(0)
     return (
