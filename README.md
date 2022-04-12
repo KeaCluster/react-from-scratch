@@ -37,7 +37,7 @@ const container = document.getElementById("root");
 Didact.render(element, container);
 ```
 
-### Functional
+#### Functional
 
 ```javascript
 function App(){
