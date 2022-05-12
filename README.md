@@ -14,7 +14,7 @@
 
 1. Basically just as React
 2. Babel **required**
-3. Babel will transpile JSX will our custom function
+3. Babel will transpile JSX with our custom function
 
 ```javascript
   const Didact = {
